@@ -2,7 +2,8 @@
 Diagnostic Problems from the 'Intro to Big Data' class, Guided by Liangwen Wu
 
 
-[Diagnostic Problem 1]
+
+# Diagnostic Problem 1 :
 
 Joseph and Jane are making a contest for apes. During the process, they have to communicate frequently with each other. Since they are not completely human, they cannot speak properly. They have to transfer messages using postcards of small sizes. To save space on the small postcards, they devise a string compression algorithm:
 
